@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Davis Zemitis
-- 👀 Passionate software developer willing to learn new things. Currently learning WEB API (ASP.NET)
-- 🌱 My skillset: C# .Net, Unit testing, SQL, GIT. Have a basic knowledge about css, html, Javasacript/Typescritp and Unity.
-- 📫 📫 How to reach me @linkedIn: www.linkedin.com/in/davis-zemitis @gmail: daviszemitis@gmail.com
+:wave: Hi There!
+My name is Davis and im from Riga, Latvia. Im pretty open person and I have been cought up in coding. For now I have been working mainly with C# but I love to learn new things like other languages, some stuff like Unity and even some Blender! Currently I'm learning more about WEB API (ASP.NET) but in near future I will make some progress with Angular. 
+Afar from programing I love to travel, to see new cultures and learn some new stuff! 
+
+- 🌱 My skillset for now: C# .Net, Unit testing, SQL, GIT. Have a basic knowledge about css, html, Javasacript/Typescritp and Unity.
+
+- 📫 You can contact me on [@LinkedIn](www.linkedin.com/in/davis-zemitis) or You can write me @gmail: daviszemitis@gmail.com
+
+
+
+
+
 
 <!---
 DZemitis/DZemitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
