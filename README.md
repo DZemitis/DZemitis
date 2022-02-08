@@ -4,7 +4,7 @@ My name is Davis and I'm from Riga, Latvia. I'm a pretty open person and I have 
 
 - 🌱 My skillset for now: C# .Net, Unit testing, SQL, GIT. Have a basic knowledge about css, html, Javasacript/Typescritp and Unity.
 
-- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/davis-zemitis/) or You can write me - @gmail: daviszemitis@gmail.com
+- 📫 You can contact me on @[LinkedIn](https://www.linkedin.com/in/davis-zemitis/) or You can write me - @gmail: daviszemitis@gmail.com
 
 
 
