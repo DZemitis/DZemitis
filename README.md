@@ -1,4 +1,5 @@
-<div align = center>
+<div align = center class ="header">
+
    <div font-size= 100>
 <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="150" height="150"/>
    Hi there!
