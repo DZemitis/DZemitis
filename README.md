@@ -1,9 +1,13 @@
+<div align = center>
+   <div font-size= 100>
+<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="150" height="150"/>
+   Hi there!
+  </div>
+</div>
 
-<img src="https://raw.githubusercontent.com/DZemitis/DZemitis/main/Hi!%20I'm%20Davis%20(7).gif" width="100%" height="220px">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23439F36&size=26&duration=3000&center=true&multiline=true&width=1000&height=100&lines=My+name+is+Davis!;And+I'm+C%23+.NET+Developer!)
 
 
-
-<div class="wave">:wave:  Hi There! </div>
 
 My name is Davis and I'm from Riga, Latvia. I'm a pretty open person and I have been caught up in coding. For now, I have been working mainly with C# but I love to learn new things like other languages, some stuff like Unity, and even some Blender! Currently, I'm learning more about WEB API (ASP.NET) but in near future, I will make some progress with Angular. Afar from programing I love to travel, to see new cultures and learn some new stuff
 
