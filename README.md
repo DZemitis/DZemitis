@@ -1,10 +1,14 @@
+
 <div align = center class ="header">
 
    <div font-size= 100>
-<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="150" height="150"/>
-   Hi there!
+<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="75" height="75"/>
+      
+  # Hi there!
   </div>
 </div>
+
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23439F36&size=26&duration=3000&center=true&multiline=true&width=1000&height=100&lines=My+name+is+Davis!;And+I'm+C%23+.NET+Developer!)
 
